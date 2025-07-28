@@ -25,22 +25,4 @@ export default function Home() {
         </Card>
         <Card>
           <CardContent>
-            <h2>Tokenomics</h2>
-            <p>69B Supply, deflationär, DAO-gesteuert. Liquidity + Vault durch jede Transaktion.</p>
-          </CardContent>
-        </Card>
-        <Card>
-          <CardContent>
-            <h2>Rat Race Game</h2>
-            <p>Sammle Cheddar als NFT-Ratte in unserem On-Chain Game. Nur die Stinkigsten überleben.</p>
-          </CardContent>
-        </Card>
-      </section>
-
-      <section style={{ textAlign: 'center', marginTop: '3rem' }}>
-        <h2>Join the Chedda Mafia</h2>
-        <p>Telegram: @cheddacoin | Twitter: @chedda_eth</p>
-      </section>
-    </main>
-  );
-}
+            <h
